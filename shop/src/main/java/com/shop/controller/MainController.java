@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import java.util.Optional;
 
 @Controller
-@RequiredArgsConstructor
+//@RequiredArgsConstructor
 public class MainController {
 
 //    private final ItemService itemService;
